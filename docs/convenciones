@@ -3,8 +3,13 @@
 * Use US spelling and grammar.
 * Direct, simple writing style
 * Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers
+<<<<<<< HEAD
 * Use acronyms only if they are commonoy understood. Ideally, spell out the first use of an acronym followed by the acronym itself in parentheses (eg. `CLI (Command Line Interface)`).
 * Use “and” instead of "&" or ampersan  and style.
+=======
+* Use acronyms only if they are commonly understood. Ideally, spell out the first use of an acronym followed by the acronym itself in parentheses (eg. `CLI (Command Line Interface)`).
+* Use “and” instead of &.
+>>>>>>> 498c2e470a51777f1ceaf3332e8d611e20dbbb86
 * Direct, simple writing style.
 *gggggggggggggggg Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers.
  Prefer active voice (eg. `To launch the application, click "Deploy") to passive voice (eg. `To launch the application, click "Deploy").
