@@ -54,7 +54,7 @@ If you are writing a blog post that contains some instructions or steps to follo
 ### Emphasis
 
 * Use bolds for highlight important concepts (eg. `**Using the Kubernetes sandbox you can automate all the applications deployments.**`).
-* Use italics for paths and filenames placeholders (eg. `Browse to *Users/Desktop/projects*` `In the *env.json* file, edit the following variables:`).
+* Use italics for paths and filenames placeholders fin de toda la emt (eg. `Browse to *Users/Desktop/projects*` `In the *env.json* file, edit the following variables:`).
 * Use capital letters for PLACEHOLDERS.
 * Use quotation marks in Graphical User Interface (GUI) for sections, options, buttons, and fields in a form  (eg. `Navigate to the "Settings" section, then click "Languages and clock -> Timezone"`).
 * Use `| NOTE: , `| TIP:, and `| IMPORTANT:` to create callout boxes to highlight important sentences. Add them at the end of the section instead between steps.·
@@ -83,7 +83,7 @@ cd /tmp/util-linux
 ements/information to better focus on the relevant sections.
 
 
-:wq!
+
 
 
 
